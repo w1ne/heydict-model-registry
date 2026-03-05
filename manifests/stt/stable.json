@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-05T23:56:51Z",
+  "generated_at": "2026-03-05T23:59:06Z",
   "models": [
     {
-      "id": "ggml-tiny.en-",
+      "id": "whisper-tiny-en",
       "provider": "whisper-local",
-      "name": "Whisper ggml-tiny.en",
+      "name": "Whisper Tiny EN",
       "version": "1.0.0",
       "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/ggml-tiny.en.bin",
       "artifact_path": "ggml-tiny.en.bin",
@@ -16,9 +16,9 @@
       "status": "active"
     },
     {
-      "id": "ggml-base.en-",
+      "id": "whisper-base-en",
       "provider": "whisper-local",
-      "name": "Whisper ggml-base.en",
+      "name": "Whisper Base EN",
       "version": "1.0.0",
       "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/ggml-base.en.bin",
       "artifact_path": "ggml-base.en.bin",
@@ -29,9 +29,9 @@
       "status": "active"
     },
     {
-      "id": "ggml-small.en-",
+      "id": "whisper-small-en",
       "provider": "whisper-local",
-      "name": "Whisper ggml-small.en",
+      "name": "Whisper Small EN",
       "version": "1.0.0",
       "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/ggml-small.en.bin",
       "artifact_path": "ggml-small.en.bin",
