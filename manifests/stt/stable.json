@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-03-05T00:00:00Z",
+  "models": [
+    {
+      "id": "whisper-base-en",
+      "provider": "whisper-local",
+      "name": "Whisper Base EN",
+      "version": "1.0.0",
+      "artifact_url": "",
+      "artifact_path": "ggml-base.en.bin",
+      "sha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+      "size_bytes": 147964211,
+      "filename": "ggml-base.en.bin",
+      "description": "Default local Whisper model.",
+      "status": "active"
+    }
+  ]
+}
