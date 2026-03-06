@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-06T00:49:49Z",
+  "generated_at": "2026-03-06T01:39:14Z",
   "models": [
     {
       "id": "whisper-tiny-en",
@@ -46,12 +46,12 @@
       "provider": "moonshine",
       "name": "Moonshine Tiny",
       "version": "1.0.0",
-      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-tiny-hf-cache.tar.gz",
-      "artifact_path": "moonshine-tiny-hf-cache.tar.gz",
-      "sha256": "e637a633792632945d53a2cdfdc956410c936520097ab5549353b239fab4f265",
-      "size_bytes": 239159381,
-      "filename": "moonshine-tiny-hf-cache.tar.gz",
-      "description": "Published model artifact: moonshine-tiny-hf-cache.tar.gz",
+      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-tiny-en-voice.tar.gz",
+      "artifact_path": "moonshine-tiny-en-voice.tar.gz",
+      "sha256": "7d83ae216ed586c4707e9e8a626daf586b17c84d1f1dd88bc7b9d29cf765de7d",
+      "size_bytes": 28897692,
+      "filename": "moonshine-tiny-en-voice.tar.gz",
+      "description": "Published model artifact: moonshine-tiny-en-voice.tar.gz",
       "status": "active",
       "moonshine_model_type": "tiny"
     },
@@ -60,12 +60,12 @@
       "provider": "moonshine",
       "name": "Moonshine Base",
       "version": "1.0.0",
-      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-base-hf-cache.tar.gz",
-      "artifact_path": "moonshine-base-hf-cache.tar.gz",
-      "sha256": "4b39498c1c47d8ac86338cd06cee4e144f78f9f9a1033c3445441857882f8238",
-      "size_bytes": 472577607,
-      "filename": "moonshine-base-hf-cache.tar.gz",
-      "description": "Published model artifact: moonshine-base-hf-cache.tar.gz",
+      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-base-en-voice.tar.gz",
+      "artifact_path": "moonshine-base-en-voice.tar.gz",
+      "sha256": "ab1565174f98a535ff9280e8636ee0fbc4fefbd3717ce8b94e26372f605ca14c",
+      "size_bytes": 107081957,
+      "filename": "moonshine-base-en-voice.tar.gz",
+      "description": "Published model artifact: moonshine-base-en-voice.tar.gz",
       "status": "active",
       "moonshine_model_type": "base"
     }
