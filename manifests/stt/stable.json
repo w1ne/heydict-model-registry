@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-03-05T23:59:06Z",
+  "generated_at": "2026-03-06T00:49:49Z",
   "models": [
     {
       "id": "whisper-tiny-en",
@@ -40,6 +40,34 @@
       "filename": "ggml-small.en.bin",
       "description": "Published model artifact: ggml-small.en.bin",
       "status": "active"
+    },
+    {
+      "id": "moonshine-tiny",
+      "provider": "moonshine",
+      "name": "Moonshine Tiny",
+      "version": "1.0.0",
+      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-tiny-hf-cache.tar.gz",
+      "artifact_path": "moonshine-tiny-hf-cache.tar.gz",
+      "sha256": "e637a633792632945d53a2cdfdc956410c936520097ab5549353b239fab4f265",
+      "size_bytes": 239159381,
+      "filename": "moonshine-tiny-hf-cache.tar.gz",
+      "description": "Published model artifact: moonshine-tiny-hf-cache.tar.gz",
+      "status": "active",
+      "moonshine_model_type": "tiny"
+    },
+    {
+      "id": "moonshine-base",
+      "provider": "moonshine",
+      "name": "Moonshine Base",
+      "version": "1.0.0",
+      "artifact_url": "https://github.com/w1ne/heydict-model-registry/releases/download/stt-models-v1/moonshine-base-hf-cache.tar.gz",
+      "artifact_path": "moonshine-base-hf-cache.tar.gz",
+      "sha256": "4b39498c1c47d8ac86338cd06cee4e144f78f9f9a1033c3445441857882f8238",
+      "size_bytes": 472577607,
+      "filename": "moonshine-base-hf-cache.tar.gz",
+      "description": "Published model artifact: moonshine-base-hf-cache.tar.gz",
+      "status": "active",
+      "moonshine_model_type": "base"
     }
   ]
 }
